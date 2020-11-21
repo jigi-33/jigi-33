@@ -1,6 +1,6 @@
 ### Hello friends, here's expanded profile page of jigi-33
 
-**In brief**: My name is Ilya. I'm a Python enthusiast, GNU/Linux & OSS fan
+**In brief**: `{'name': 'Ilya'}` I'm a Python enthusiast, GNU/Linux & OSS fan
 
 **Qualifications**: software engineer, system administrator
 
@@ -11,24 +11,24 @@
 - **2008**  System administrator, technical support (hardware & software) for some tiny companies
 - **2019**  Software tester (functional) in Demlabs inc.
 - **2020**  Automation tester / web & desktop performance ingineer (python) in Tensor co., LLC
-- from **Sept.2020** shifted to a freelance
+- from **Sept.2020** shifted to be freelance...
 
 #### Higher education
  
-**1993 – 1998** Novosibirsk state agrarian university. *Grade:* Economy and management in Agricultural sector. Accounting, analysis and audit.
+**1993 – 1998** Novosibirsk state agrarian university. *Grade:* Economy and management in Agricultural sector. Accounting, analysis and audit
  
 #### Self education
  
-- Python programming basics on Learn Python
+- Python programming basics *on Learn Python*
 - Software testing solids
-- Automated testing solids with Python and Selenium on Stepik
+- Automated testing solids with Python and Selenium *on Stepik*
 - Performance testing solids
 - Web development with Python and Django
 - GUI applications development - Python's tkinter, PyQt5, Kivy, wxPython modules
 - Advanced Python techniques
-- Game translations (eng. -> rus.) on ZOG/Notabenoid project
-- Math calculations with SciPy, Sympy on Skillbox
-- Data Analysis basics (Numpy, Pandas, Matplotlib)
+- Game translations (eng. -> rus.) *on ZOG/Notabenoid project*
+- Math calculations with SciPy, Sympy *on Skillbox*
+- Data Science basics (Numpy, Pandas, Matplotlib) *on Specialist & Udemy*
  
 #### Practical skills
  
@@ -43,7 +43,7 @@
 
 #### Foreign language
  
-**English, B1**. Able to read technical documentation, news and dialogs. To write software documentations.
+**English, B1**. Able to read technical documentation, news and dialogs. To write software documentations
 
 #### Contact
 
