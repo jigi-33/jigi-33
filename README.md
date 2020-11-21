@@ -1,6 +1,16 @@
 ### Hello friends, here's expanded profile page of jigi-33
 
-**In brief**: ```python3{'name': 'Ilya'}``` I'm a Python enthusiast, GNU/Linux & OSS fan
+#### In brief
+
+```python
+who_am_i = {
+            'name': "Ilya",
+            'aka': "jigi",
+            'born_in': 1976,
+            'is_happy: True',
+            }
+```
+I'm a Python enthusiast, GNU/Linux & OSS fan.
 
 **Qualifications**: software engineer, system administrator
 
