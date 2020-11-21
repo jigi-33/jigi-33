@@ -52,7 +52,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 
 #### Foreign language
 
-**English, B1**. Able to read technical documentation, news and dialogs. To write software documentations
+***English, B1*** Able to read technical documentation, news and dialogs. To write software documentations
 
 #### Contact
 
