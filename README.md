@@ -1,17 +1,17 @@
-### Hello friends, here's my expanded profile page
+### Hello friends, here's expanded profile page of jigi-33
 
-Python enthusiast, GNU/Linux & OSS fan
+**In brief**: My name is Ilya. I'm a Python enthusiast, GNU/Linux & OSS fan
 
-**Qualification**: software engineer, system administrator
+**Qualifications**: software engineer, system administrator
 
 **Main skills**: networks, system automation, software testing, data security, PC technical support, coding for usual business tasks
 
 #### IT career milestones
 
-- **2008** System administrator, technical support (hardware & software) for some tiny companies
-- **2019** Software tester (functional) in Demlabs inc.
-- **2020** Automation tester / web & desktop performance ingineer (python) in Tensor co., LLC
-- from Sept.2020 I'm a freelancer
+- **2008**  System administrator, technical support (hardware & software) for some tiny companies
+- **2019**  Software tester (functional) in Demlabs inc.
+- **2020**  Automation tester / web & desktop performance ingineer (python) in Tensor co., LLC
+- from **Sept.2020** shifted to a freelance
 
 #### Higher education
  
