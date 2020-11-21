@@ -4,8 +4,8 @@
 
 ```python
 who_am_i = {
-            'name': "Ilya",
-            'aka': "jigi",
+            'name': 'Ilya',
+            'aka': 'jigi',
             'born_in': 1976,
             'is_happy: True',
             }
