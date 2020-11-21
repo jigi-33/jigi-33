@@ -7,7 +7,7 @@ who_am_i = {
             'name': 'Ilya',
             'aka': 'jigi',
             'born_in': 1976,
-            'is_happy: True',
+            'is_happy': True,
             }
 ```
 I'm a Python enthusiast, GNU/Linux & OSS fan.
