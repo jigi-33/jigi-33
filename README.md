@@ -56,9 +56,9 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 
 #### Other skills
 
-***Windows 'cmd' scripting***
-***PC hardware*** Modular upgrade and repair
-***Auto mobile*** Regular service
+- ***Windows 'cmd' scripting***
+- ***PC hardware*** Modular upgrade and repair
+- ***Auto mobile*** Regular service
 
 #### Contact
 
