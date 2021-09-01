@@ -54,6 +54,12 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 
 ***English, B1*** Able to read technical documentation, news and dialogs. To write software documentations
 
+#### Other skills
+
+***Windows 'cmd' scripting***
+***PC hardware*** Modular upgrade and repair
+***Auto mobile*** Regular service
+
 #### Contact
 
 ***E-mail:*** bladelanca(at)gmail(dot)com
