@@ -20,8 +20,8 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - **2008**  System administrator, technical support (hardware & software) for some tiny companies
 - **2019**  Software tester (functional) in Demlabs inc.
 - **2020**  Automation tester / web & desktop performance engineer (python) in Tensor co., LLC
-- from **Sept.2020** shifted to be freelance
-- **2022** Moving to found own IT company
+- **Fall 2020** shifted to be a freelancer
+- **Summer 2022** Moving to found own IT company
 
 #### Higher education
 
