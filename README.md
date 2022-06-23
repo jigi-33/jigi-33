@@ -13,7 +13,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 
 **Qualifications**: software engineer, system administrator
 
-**Main skills**: system automation, software testing, data security, PC technical support, coding for usual business tasks & cross-platform GUI
+**Main skills**: system automation, software testing, data security, PC tech.support, coding for usual business tasks & cross-platform GUI
 
 #### IT career milestones
 
