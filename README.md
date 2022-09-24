@@ -22,7 +22,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - **2020**  Automation tester / web & desktop performance engineer (python) in Tensor co., LLC
 - **Fall 2020** Shifted to be a freelancer
 - **Summer 2022** Moving to found own IT company
-- **Fall 2022** (coming soon)
+- **Fall 2022** National software support & integration in Novosibirsk state region
 
 #### Higher education
 
