@@ -23,7 +23,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - **Fall 2020** Shifted to be a freelancer
 - **Summer 2022** Moving to found own IT company
 - **Fall 2022** National software support & integration engineer in Novosibirsk state region
-- **Spring 2023** Will try to reach the next level (coming soon)
+- **Spring 2023** Software engineering: reach the next competence level
 
 #### Higher education
 
