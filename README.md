@@ -24,6 +24,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - **Summer 2022** Moving to found own IT company
 - **Fall 2022** National software support & integration engineer in Novosibirsk state region
 - **Fall 2023** National software integration, management and consulting in Nsk state Gov.
+- **Spring 2024** National software & Linux system engineer: testing, audit and consulting in Nsk state Gov.
 
 #### Higher education
 
@@ -41,6 +42,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - Game translations (eng. -> rus.) *on ZOG/Notabenoid project*
 - Math calculations with SciPy, Sympy *on Skillbox*
 - Data Science basics (Numpy, Pandas, Matplotlib) *on Specialist & Udemy*
+- Excel automation with Python
 
 #### Practical skills
 
@@ -48,9 +50,9 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - DS/DA tools: Jupyter Notebook, Pandas, NumPy, Matplotlib
 - GUI modules: Tkinter, Kivy, PyQt5/PySide2, wxPython
 - Web apps testing with Selenium webdriver, PyChrome
-- Linux, Freebsd servers, shell scripting, SSH
+- Linux, Freebsd servers, BASH scripting, SSH/SCP
 - Website starter & support stack: HTML/CSS/Jinja2/JS + hosting & deploying
-- Project trackers: Jira, Trello, Redmine, Testlink, SBIS
+- Project trackers: Jira, Trello, Kaiten, Redmine, Testlink, SBIS
 - .md markup
 
 #### Foreign language
