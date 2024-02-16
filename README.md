@@ -51,6 +51,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - GUI modules: Tkinter, Kivy, PyQt5/PySide2, wxPython
 - Web apps testing with Selenium webdriver, PyChrome
 - Linux, Freebsd servers, BASH scripting, SSH/SCP
+- Git & Github VCS
 - Website starter & support stack: HTML/CSS/Jinja2/JS + hosting & deploying
 - Project trackers: Jira, Trello, Kaiten, Redmine, Testlink, SBIS
 - .md markup
