@@ -43,6 +43,9 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - Math calculations with SciPy, Sympy *on Skillbox*
 - Data Science basics (Numpy, Pandas, Matplotlib) *on Specialist & Udemy*
 - Excel automation with Python
+- Full-stack webapp development with Flask 3, Jinja2, HTML/CSS *on Stepik*
+- GNU/Linux operational systems solids *on OTUS*
+- Multi-threading with modern Py-3.12 *on Stepik*
 
 #### Practical skills
 
@@ -70,3 +73,4 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 #### Contact
 
 ***E-mail:*** bladelanca(at)gmail(dot)com
+***Another:*** ilia.shb(at)mail(dot)ru
