@@ -54,10 +54,10 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - GUI modules: Tkinter, Kivy, PyQt5/PySide2, wxPython
 - Web apps testing with Selenium webdriver, PyChrome
 - Manual testing techniques: monkey, smoke, regression, accept
-- Python testing basic with pytest
+- Python testing solids with pytest
 - Linux, Freebsd servers, BASH scripting, SSH/SCP
-- Git & Github VCS
-- Website starter development & support, stack - HTML, CSS, Jinja, JS, deploy, hosting
+- GIT & Github VCS, also Gitlab and GitVerse
+- Website starter development & support, stack: HTML, CSS, Jinja, JS, deploy, hosting
 - Project trackers: Jira, Trello, Kaiten, Redmine, Testlink, SBIS
 - .md markup
 
