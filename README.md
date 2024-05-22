@@ -49,13 +49,15 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 
 #### Practical skills
 
-- Python modules and frameworks: Django, Flask, SQLAlchemy, Celery, Requests, GSE(API), BS4, Logging, PostgeSQL
+- Python modules and frameworks: Django, Flask, SQLAlchemy, Celery, Requests, GSE(API), BS4, Logging, Psycopg2, openpyxl
 - DS/DA tools: Jupyter Notebook, Pandas, NumPy, Matplotlib
 - GUI modules: Tkinter, Kivy, PyQt5/PySide2, wxPython
 - Web apps testing with Selenium webdriver, PyChrome
+- Manual testing techniques: monkey, smoke, regression, accept
+- Python testing basic with pytest
 - Linux, Freebsd servers, BASH scripting, SSH/SCP
 - Git & Github VCS
-- Website starter & support stack: HTML/CSS/Jinja2/JS + hosting & deploying
+- Website starter development & support, stack - HTML, CSS, Jinja, JS, deploy, hosting
 - Project trackers: Jira, Trello, Kaiten, Redmine, Testlink, SBIS
 - .md markup
 
