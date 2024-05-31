@@ -53,7 +53,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - DS/DA tools: Jupyter Notebook, Pandas, NumPy, Matplotlib
 - GUI modules: Tkinter, Kivy, PyQt5/PySide2, wxPython
 - Web apps testing with Selenium webdriver, PyChrome
-- Manual testing techniques: monkey, smoke, regression, accept
+- Manual testing techniques: functional, smoke, regression, accept
 - Python code testing solids with pytest
 - Linux, Freebsd servers, BASH scripting, SSH/SCP
 - GIT & Github VCS, also Gitlab and GitVerse
