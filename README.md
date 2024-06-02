@@ -58,7 +58,8 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - GIT & Github VCS, also Gitlab and GitVerse
 - Website starter development & support, stack: HTML, CSS, Jinja, JS, deploy, hosting
 - Project trackers: Jira, Trello, Kaiten, Redmine, Testlink, SBIS
-- .md markup
+- Wiki management and customization: dokuwiki, wiki.js
+- Documentations: .md markup, popular desktop office suites
 
 #### Foreign language
 
@@ -75,4 +76,3 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 
 ***E-mail:*** bladelanca(at)gmail(dot)com
 ***Another:*** ilia.shb(at)mail(dot)ru
-
