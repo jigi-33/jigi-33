@@ -33,27 +33,26 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 #### Self education
 
 - Python programming basics *on Learn Python*
-- Software testing solids
+- Software testing solids (manual, performance)
 - Automated testing solids with Python and Selenium *on Stepik*
-- Performance testing solids
-- Web development with Python and Django
 - GUI applications development - Python's Tkinter, PyQt/PySide, wxPython modules
 - Advanced Python techniques
 - Game translations (eng. -> rus.) *on ZOG/Notabenoid project*
 - Math calculations with SciPy, Sympy *on Skillbox*
 - Data Science basics (Numpy, Pandas, Matplotlib) *on Specialist & Udemy*
-- Excel automation with Python
 - Full-stack webapp development with Flask 3, Jinja2, HTML/CSS *on Stepik*
+- Web development with Python and Django
 - GNU/Linux operational systems solids *on OTUS*
-- Multi-threading with modern Py-3.12 *on Stepik*
+- Multithreading with modern Py-3.12 *on Stepik*
+- Excel spreadsheet automation with Python
 
 #### Practical skills
 
 - Python modules and frameworks: Django, Flask, SQLAlchemy, Celery, Requests, GSE(API), BS4, Logging, Psycopg2, openpyxl
 - DS/DA tools: Jupyter Notebook, Pandas, NumPy, Matplotlib
 - GUI modules: Tkinter, Kivy, PyQt5/PySide2, wxPython
-- Web apps testing with Selenium webdriver, PyChrome
-- Manual testing techniques: functional, smoke, regression, accept
+- Webapp testing with Selenium webdriver, PyChrome
+- Manual testing techniques: functional, smoke, regression, accept, perf.
 - Python code testing solids with pytest
 - Linux, Freebsd servers, BASH scripting, SSH/SCP
 - GIT & Github VCS, also Gitlab and GitVerse
@@ -76,3 +75,4 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 
 ***E-mail:*** bladelanca(at)gmail(dot)com
 ***Another:*** ilia.shb(at)mail(dot)ru
+
