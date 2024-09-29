@@ -74,7 +74,7 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - Windows 'cmd' scripting
 - PC hardware: modular upgrade and repair
 - Public appearances, business discussions
-- Technical English: very well
+- Continious self-education
 - Auto mobile: regular service
 
 #### Contact
