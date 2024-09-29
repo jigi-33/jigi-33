@@ -54,14 +54,16 @@ I'm a Python enthusiast, GNU/Linux & OSS fan.
 - Webapp testing with Selenium webdriver, PyChrome
 - Manual testing techniques: functional, smoke, regression, accept, perf.
 - Python code testing solids with pytest
-- BASH scripting, SSH/SCP operations on GNU/Linux, BSD systems
+- BASH scripting, SSH/SCP transactions on GNU/Linux, *BSD
 - GNU/Linux systemd advanced management
 - RPM/DEB building and management for huge GNU/Linux distributions
 - GIT & Github VCS, also Gitlab and GitVerse
 - Website starter development & support, stack: HTML, CSS, Jinja, JS, deploy, hosting
 - Project trackers: Jira, Trello, Kaiten, Redmine, Testlink, SBIS
 - Wiki management and customization: dokuwiki, wiki.js
-- Documentations: .md markup, popular desktop office suites
+- Documentations: .md markup, also knows popular desktop office suites (not TeX)
+- sed, egrep, pandoc tools
+- Docker starter
 
 #### Foreign language
 
