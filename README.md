@@ -11,7 +11,7 @@ who_am_i = {
 ```
 I'm a Python enthusiast, GNU/Linux & OSS fan.
 
-**Qualifications**: software engineer, QA engineer, system administrator
+**Qualifications**: software engineer, QA engineer, GNU/Linux engineer, system administrator
 
 **Main skills**: system automation, software testing, data security, PC tech.support, coding for usual business tasks & cross-platform GUIs
 
