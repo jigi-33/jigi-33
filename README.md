@@ -9,7 +9,7 @@ who_am_i = {
             'is_happy': True,
             }
 ```
-I'm a Python enthusiast, GNU/Linux & OSS fan.
+I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 
 **Qualifications**: software engineer, QA engineer, GNU/Linux engineer, system administrator
 
