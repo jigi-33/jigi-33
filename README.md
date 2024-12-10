@@ -25,7 +25,7 @@ I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 - **Fall 2022** National software support & integration engineer in Novosibirsk state region
 - **Fall 2023** National software integration, management and consulting in Nsk state Gov.
 - **Spring 2024** National software & Linux system engineer: testing, audit and consulting in Nsk state Gov.
-- **Winter 2024** Lead system administrator (national software, local services division) in Nsk state Gov.
+- **Winter 2024-2025** Lead system administrator (national software, local services division) in Nsk state Gov.
 
 #### Higher education
 
