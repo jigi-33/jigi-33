@@ -62,7 +62,7 @@ I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 - RPM/DEB building and management for huge GNU/Linux distributions
 - GIT & Github VCS, also Gitlab and GitVerse
 - Website starter development & support, stack: HTML, CSS, Jinja, JS, deploy, hosting
-- Project trackers: Jira, Trello, Kaiten, Redmine, Testlink, SBIS
+- Project trackers: Jira, Trello, Kaiten, Redmine, Testlink, Kanboard, SBIS
 - Wiki management and customization: dokuwiki, wiki.js
 - Documentations: .md markup. Also knows popular desktop office suites (not TeX)
 - sed, grep, awk, pandoc tools
