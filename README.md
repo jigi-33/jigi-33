@@ -46,6 +46,7 @@ I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 - GNU/Linux operational systems solids *on OTUS*
 - Multithreading with modern Py-3.12 *on Stepik*
 - Excel spreadsheet automation with Python
+- Advanced Shell scripting *on Purpleschool*
 
 #### Practical skills
 
