@@ -43,7 +43,7 @@ I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 - Data Science basics (Numpy, Pandas, Matplotlib) *on Specialist & Udemy*
 - Full-stack webapp development with Flask 3, Jinja2, HTML/CSS *on Stepik*
 - Web development with Python and Django
-- GNU/Linux operational systems solids *on OTUS*
+- GNU/Linux operation systems solids *on OTUS*
 - Advanced GIT *on OTUS*
 - Multithreading with modern Py-3.12 *on Stepik*
 - Excel spreadsheet automation with Python
