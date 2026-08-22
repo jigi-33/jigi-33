@@ -33,7 +33,7 @@ I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 
 #### Adv.qualification
 
-**2026** St.Petersburg polytechnical university. *Grade:* Administration of the national operating systems.
+**2026** St.Petersburg polytechnical university. *Grade:* Administration of the national operating systems
 
 #### Self education
 
