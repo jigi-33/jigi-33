@@ -31,6 +31,10 @@ I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 
 **1993 – 1998** Novosibirsk state agrarian university. *Grade:* Economy and management in Agricultural sector. Accounting, analysis and audit
 
+#### Adv.qualification
+
+**2026** St.Petersburg Polytech university. *Grade:* Administration of the national operating systems.
+
 #### Self education
 
 - Python programming basics *on Learn Python*
