@@ -31,7 +31,7 @@ I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 
 **1993 – 1998** Novosibirsk state agrarian university. *Grade:* Economy and management in Agricultural sector. Accounting, analysis, audit
 
-#### Adv.qualification
+#### Advanced qualification
 
 **2026** St.Petersburg polytechnical university. *Grade:* Administration of the national operating systems
 
