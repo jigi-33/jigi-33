@@ -29,7 +29,7 @@ I'm a Python & Ruby enthusiast, GNU/Linux & OSS fan.
 
 #### Higher education
 
-**1993 – 1998** Novosibirsk state agrarian university. *Grade:* Economy and management in Agricultural sector. Accounting, analysis and audit
+**1993 – 1998** Novosibirsk state agrarian university. *Grade:* Economy and management in Agricultural sector. Accounting, analysis, audit
 
 #### Adv.qualification
 
