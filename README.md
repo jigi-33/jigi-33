@@ -34,6 +34,7 @@ I'm a Python & C++ enthusiast, GNU/Linux & OSS fan.
 #### Advanced qualification
 
 **2026** St.Petersburg polytechnical university. *Grade:* Administration of the national operating systems
+**2026** Private additional education institute "Abius". *Educational program:* Information security
 
 #### Self education
 
